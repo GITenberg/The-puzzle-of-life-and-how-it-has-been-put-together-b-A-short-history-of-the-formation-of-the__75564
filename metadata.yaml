@@ -1,0 +1,45 @@
+_repo: The-puzzle-of-life-and-how-it-has-been-put-together-b-A-short-history-of-the-formation-of-the__75564
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Waddy, Frederick
+    aliases:
+    - Waddy, Fred K.
+    - Waddy, F.
+    birthdate: 1848
+    deathdate: 1901
+    gutenberg_agent_id: '43007'
+    url: http://www.gutenberg.org/2009/agents/43007
+    wikipedia: https://en.wikipedia.org/wiki/Frederick_Waddy
+creator:
+  author:
+    agent_name: Nicols, Arthur
+    gutenberg_agent_id: '58051'
+    url: http://www.gutenberg.org/2009/agents/58051
+description: ''
+edition_note: Second edition.
+gutenberg_issued: '2025-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75564'
+language: en
+pgterms:marc904: https://archive.org/details/puzzleoflifehowi00nicoiala
+pgterms:marc905: 20240909084954nicols
+pgterms:marc906: '1877'
+pgterms:marc907: GB
+production_note: Bob Taylor, deaurider and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bLongmans, Green, and Co., $c1877.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geology -- Juvenile literature'
+- !lcsh 'Prehistoric peoples -- Juvenile literature'
+- !lcc 'QE'
+- GITenberg
+title: 'The puzzle of life and how it has been put together : $b A short history of
+  the formation of the earth, with its vegetable and animal life, from the earliest
+  times, including an account of prehistoric man, his weapons, tools, and works'
+url: http://www.gutenberg.org/ebooks/75564
