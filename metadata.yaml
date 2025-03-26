@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '43007'
     url: http://www.gutenberg.org/2009/agents/43007
     wikipedia: https://en.wikipedia.org/wiki/Frederick_Waddy
+covers:
+- cover_type: archival
+  image_path: 75564-h/images/cover.jpg
 creator:
   author:
     agent_name: Nicols, Arthur
     gutenberg_agent_id: '58051'
     url: http://www.gutenberg.org/2009/agents/58051
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75564#The-puzzle-of-life-and-how-it-has-been-put-together-b-A-short-history-of-the-formation-of-the_
 edition_note: Second edition.
 gutenberg_issued: '2025-03-08'
 gutenberg_type: Text
